@@ -1,6 +1,6 @@
 # Nagios Scraper
 
-![Python application](https://github.com/lukebarone/useful-scripts/nagios-scraper/workflows/Python%20application/badge.svg)
+![Python application](https://github.com/lukebarone/useful-scripts/workflows/Python%20application/badge.svg)
 
 ### Purpose:
 
