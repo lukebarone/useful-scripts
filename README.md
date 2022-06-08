@@ -1,5 +1,6 @@
 # Useful Scripts
 
+![Python application](https://github.com/lukebarone/useful-scripts/workflows/Python%20application/badge.svg) | ![BASH Shell Scripts](https://github.com/lukebarone/useful-scripts/workflows/Shellcheck/badge.svg)
 ## Summary
 
 This repo contains scripts that do one thing, and one thing well. Each subfolder contains all the files required to run the script.

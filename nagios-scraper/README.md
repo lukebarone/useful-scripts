@@ -1,7 +1,5 @@
 # Nagios Scraper
 
-![Python application](https://github.com/lukebarone/useful-scripts/workflows/Python%20application/badge.svg)
-
 ### Purpose:
 
 If you are running multiple Nagios sessions in your browser, you need to constantly check in with them. If authentication is turned on, sometimes you have to re-login to them. This script is built to give ONE console of information from ALL your Nagios sources through the command line.
