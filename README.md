@@ -9,6 +9,8 @@ These scripts are without warranty! Some scripts require root access, which can 
 ## Table of Contents
 
 - [Alert for service disruptions](/alerts) - Sends an email to Responsible People when servers are shutting down or rebooting. Useful when only one node runs a service and it needs a reboot.
+- [Email Merge](/email_list) - Performs a CLI-based Mail Merge. A list of addresses to send to, variables to replace in a message, and the message.
+- [Nagios Scraper](/nagios-scraper/) - Scrapes Nagios installations, and outputs if there are problems or not between multiple sites. Useful if you have NRPE segregated to different networks and only the Nagios interface to use between them.
 
 ## Contributing
 
